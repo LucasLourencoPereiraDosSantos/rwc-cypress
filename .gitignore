@@ -2,3 +2,4 @@ node_modules
 
 #cypress
 cypress/videos
+cypress/scrennshots
